@@ -4,6 +4,8 @@ import (
 	"fmt"
 )
 
+// Day 1
+
 func bandNameGenerator() string {
 	var city, pet, bandName string
 	fmt.Println("Welcome to the band name generator!")
