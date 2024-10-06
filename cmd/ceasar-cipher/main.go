@@ -5,6 +5,8 @@ import (
     "strings"
 )
 
+// Day 7
+
 const stringSet = "abcdefghijklmnopqrstuvwxyz"
 
 var stringCharset = []rune(stringSet)
