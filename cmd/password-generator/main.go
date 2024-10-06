@@ -5,6 +5,8 @@ import (
 	"math/rand/v2"
 )
 
+// Day 5
+
 func passwordGenerator(letters, symbols, numbers int) string {
 	var charArray []string
 	var password string
