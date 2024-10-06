@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+// Day 3
+
 func adventureGame() {
 
 	type Choices struct {
