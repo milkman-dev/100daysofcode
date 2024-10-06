@@ -5,6 +5,8 @@ import (
 	"math/rand/v2"
 )
 
+// Day 4
+
 func rockPaperScissors() {
 
 	rock := `
