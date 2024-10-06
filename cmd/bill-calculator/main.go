@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+// Day 2
+
 func tipCalculator(bill float64) []string {
 	var tipRates []float64
 	var tip float64
