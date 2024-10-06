@@ -32,6 +32,8 @@ func maskWord(word string) []rune {
 	return maskedWord
 }
 
+// Day 6
+
 func hangman() {
 	var letter string
 	fmt.Println("Welcome to Hangman Game!")
