@@ -60,16 +60,15 @@ func adventureGame() {
 	fmt.Print("One red, one yellow and one blue. Which colour do you choose?: ")
 	fmt.Scan(&gameChoices.doorChoice)
 
-	if gameChoices.doorChoice == "red" {
+	switch gameChoices.doorChoice {
+	case "red":
 		fmt.Println("There was a room full of fire")
-	} else if gameChoices.doorChoice == "blue" {
+	case "blue":
 		fmt.Println("You got eaten by some beasts")
-	} else if gameChoices.doorChoice == "yellow" {
+	case "yellow":
 		fmt.Println("You found the treasure!")
 	}
-
 	fmt.Println("Game over")
-	return
 }
 
 func main() {
