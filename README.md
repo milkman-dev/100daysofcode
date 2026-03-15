@@ -20,5 +20,6 @@ Each day (sometimes every few days), I will explore new concepts and build quick
 
 ---
 
+This has been a bit alone because I get busy sometimes, but I'll come back to this again soon...
 
 “The mind of the prudent acquires knowledge, and the ear of the wise seeks knowledge.” 🌱
